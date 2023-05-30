@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Kiosk/1.0.0": {
+        "runtime": {
+          "Kiosk.dll": {}
+        },
+        "resources": {
+          "ko/Kiosk.resources.dll": {
+            "locale": "ko"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kiosk/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

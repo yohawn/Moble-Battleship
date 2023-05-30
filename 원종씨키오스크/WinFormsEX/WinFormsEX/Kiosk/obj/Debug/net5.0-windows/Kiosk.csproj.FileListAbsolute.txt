@@ -1,0 +1,75 @@
+C:\Mb_lwj\c#\WinFormsEX\Kiosk\bin\Debug\net5.0-windows\Kiosk.exe
+C:\Mb_lwj\c#\WinFormsEX\Kiosk\bin\Debug\net5.0-windows\Kiosk.deps.json
+C:\Mb_lwj\c#\WinFormsEX\Kiosk\bin\Debug\net5.0-windows\Kiosk.runtimeconfig.json
+C:\Mb_lwj\c#\WinFormsEX\Kiosk\bin\Debug\net5.0-windows\Kiosk.runtimeconfig.dev.json
+C:\Mb_lwj\c#\WinFormsEX\Kiosk\bin\Debug\net5.0-windows\Kiosk.dll
+C:\Mb_lwj\c#\WinFormsEX\Kiosk\bin\Debug\net5.0-windows\Kiosk.pdb
+C:\Mb_lwj\c#\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\Kiosk.csproj.AssemblyReference.cache
+C:\Mb_lwj\c#\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\Kiosk.DrinksForm.resources
+C:\Mb_lwj\c#\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\Kiosk.Form1.resources
+C:\Mb_lwj\c#\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\Kiosk.HambergerForm.resources
+C:\Mb_lwj\c#\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\Kiosk.SideForm.resources
+C:\Mb_lwj\c#\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\Kiosk.csproj.GenerateResource.cache
+C:\Mb_lwj\c#\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\Kiosk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mb_lwj\c#\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\Kiosk.AssemblyInfoInputs.cache
+C:\Mb_lwj\c#\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\Kiosk.AssemblyInfo.cs
+C:\Mb_lwj\c#\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\Kiosk.csproj.CoreCompileInputs.cache
+C:\Mb_lwj\c#\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\Kiosk.dll
+C:\Mb_lwj\c#\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\refint\Kiosk.dll
+C:\Mb_lwj\c#\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\Kiosk.pdb
+C:\Mb_lwj\c#\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\Kiosk.genruntimeconfig.cache
+C:\Mb_lwj\c#\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\ref\Kiosk.dll
+C:\Mb_lwj\c#\WinFormsEX\Kiosk\bin\Debug\net5.0-windows\ko\Kiosk.resources.dll
+C:\Mb_lwj\c#\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\Kiosk.Form1.ko.resources
+C:\Mb_lwj\c#\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\ko\Kiosk.resources.dll
+C:\Mb_lwj\c#\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\Kiosk.Properties.StringLib.resources
+C:\Users\yjkim\Downloads\c#\c#\WinFormsEX\Kiosk\bin\Debug\net5.0-windows\Kiosk.exe
+C:\Users\yjkim\Downloads\c#\c#\WinFormsEX\Kiosk\bin\Debug\net5.0-windows\Kiosk.deps.json
+C:\Users\yjkim\Downloads\c#\c#\WinFormsEX\Kiosk\bin\Debug\net5.0-windows\Kiosk.runtimeconfig.json
+C:\Users\yjkim\Downloads\c#\c#\WinFormsEX\Kiosk\bin\Debug\net5.0-windows\Kiosk.runtimeconfig.dev.json
+C:\Users\yjkim\Downloads\c#\c#\WinFormsEX\Kiosk\bin\Debug\net5.0-windows\Kiosk.dll
+C:\Users\yjkim\Downloads\c#\c#\WinFormsEX\Kiosk\bin\Debug\net5.0-windows\Kiosk.pdb
+C:\Users\yjkim\Downloads\c#\c#\WinFormsEX\Kiosk\bin\Debug\net5.0-windows\ko\Kiosk.resources.dll
+C:\Users\yjkim\Downloads\c#\c#\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\Kiosk.csproj.AssemblyReference.cache
+C:\Users\yjkim\Downloads\c#\c#\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\Kiosk.DrinksForm.resources
+C:\Users\yjkim\Downloads\c#\c#\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\Kiosk.Form1.resources
+C:\Users\yjkim\Downloads\c#\c#\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\Kiosk.HambergerForm.resources
+C:\Users\yjkim\Downloads\c#\c#\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\Kiosk.Properties.StringLib.resources
+C:\Users\yjkim\Downloads\c#\c#\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\Kiosk.SideForm.resources
+C:\Users\yjkim\Downloads\c#\c#\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\Kiosk.Form1.ko.resources
+C:\Users\yjkim\Downloads\c#\c#\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\Kiosk.csproj.GenerateResource.cache
+C:\Users\yjkim\Downloads\c#\c#\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\Kiosk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yjkim\Downloads\c#\c#\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\Kiosk.AssemblyInfoInputs.cache
+C:\Users\yjkim\Downloads\c#\c#\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\Kiosk.AssemblyInfo.cs
+C:\Users\yjkim\Downloads\c#\c#\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\Kiosk.csproj.CoreCompileInputs.cache
+C:\Users\yjkim\Downloads\c#\c#\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\ko\Kiosk.resources.dll
+C:\Users\yjkim\Downloads\c#\c#\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\Kiosk.dll
+C:\Users\yjkim\Downloads\c#\c#\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\refint\Kiosk.dll
+C:\Users\yjkim\Downloads\c#\c#\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\Kiosk.pdb
+C:\Users\yjkim\Downloads\c#\c#\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\Kiosk.genruntimeconfig.cache
+C:\Users\yjkim\Downloads\c#\c#\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\ref\Kiosk.dll
+C:\Users\dhdyg\Documents\카카오톡 받은 파일\WinFormsEX\WinFormsEX\Kiosk\bin\Debug\net5.0-windows\Kiosk.exe
+C:\Users\dhdyg\Documents\카카오톡 받은 파일\WinFormsEX\WinFormsEX\Kiosk\bin\Debug\net5.0-windows\Kiosk.deps.json
+C:\Users\dhdyg\Documents\카카오톡 받은 파일\WinFormsEX\WinFormsEX\Kiosk\bin\Debug\net5.0-windows\Kiosk.runtimeconfig.json
+C:\Users\dhdyg\Documents\카카오톡 받은 파일\WinFormsEX\WinFormsEX\Kiosk\bin\Debug\net5.0-windows\Kiosk.runtimeconfig.dev.json
+C:\Users\dhdyg\Documents\카카오톡 받은 파일\WinFormsEX\WinFormsEX\Kiosk\bin\Debug\net5.0-windows\Kiosk.dll
+C:\Users\dhdyg\Documents\카카오톡 받은 파일\WinFormsEX\WinFormsEX\Kiosk\bin\Debug\net5.0-windows\Kiosk.pdb
+C:\Users\dhdyg\Documents\카카오톡 받은 파일\WinFormsEX\WinFormsEX\Kiosk\bin\Debug\net5.0-windows\ko\Kiosk.resources.dll
+C:\Users\dhdyg\Documents\카카오톡 받은 파일\WinFormsEX\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\Kiosk.csproj.AssemblyReference.cache
+C:\Users\dhdyg\Documents\카카오톡 받은 파일\WinFormsEX\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\Kiosk.DrinksForm.resources
+C:\Users\dhdyg\Documents\카카오톡 받은 파일\WinFormsEX\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\Kiosk.Form1.resources
+C:\Users\dhdyg\Documents\카카오톡 받은 파일\WinFormsEX\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\Kiosk.HambergerForm.resources
+C:\Users\dhdyg\Documents\카카오톡 받은 파일\WinFormsEX\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\Kiosk.Properties.StringLib.resources
+C:\Users\dhdyg\Documents\카카오톡 받은 파일\WinFormsEX\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\Kiosk.SideForm.resources
+C:\Users\dhdyg\Documents\카카오톡 받은 파일\WinFormsEX\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\Kiosk.Form1.ko.resources
+C:\Users\dhdyg\Documents\카카오톡 받은 파일\WinFormsEX\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\Kiosk.csproj.GenerateResource.cache
+C:\Users\dhdyg\Documents\카카오톡 받은 파일\WinFormsEX\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\Kiosk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhdyg\Documents\카카오톡 받은 파일\WinFormsEX\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\Kiosk.AssemblyInfoInputs.cache
+C:\Users\dhdyg\Documents\카카오톡 받은 파일\WinFormsEX\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\Kiosk.AssemblyInfo.cs
+C:\Users\dhdyg\Documents\카카오톡 받은 파일\WinFormsEX\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\Kiosk.csproj.CoreCompileInputs.cache
+C:\Users\dhdyg\Documents\카카오톡 받은 파일\WinFormsEX\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\ko\Kiosk.resources.dll
+C:\Users\dhdyg\Documents\카카오톡 받은 파일\WinFormsEX\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\Kiosk.dll
+C:\Users\dhdyg\Documents\카카오톡 받은 파일\WinFormsEX\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\refint\Kiosk.dll
+C:\Users\dhdyg\Documents\카카오톡 받은 파일\WinFormsEX\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\Kiosk.pdb
+C:\Users\dhdyg\Documents\카카오톡 받은 파일\WinFormsEX\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\Kiosk.genruntimeconfig.cache
+C:\Users\dhdyg\Documents\카카오톡 받은 파일\WinFormsEX\WinFormsEX\Kiosk\obj\Debug\net5.0-windows\ref\Kiosk.dll

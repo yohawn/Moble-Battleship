@@ -1,0 +1,33 @@
+C:\jaemin\Csharp\workplace\TCPpractice\bin\Debug\TCPpractice.exe.config
+C:\jaemin\Csharp\workplace\TCPpractice\bin\Debug\TCPpractice.exe
+C:\jaemin\Csharp\workplace\TCPpractice\bin\Debug\TCPpractice.pdb
+C:\jaemin\Csharp\workplace\TCPpractice\obj\Debug\TCPpractice.csproj.AssemblyReference.cache
+C:\jaemin\Csharp\workplace\TCPpractice\obj\Debug\TCPpractice.csproj.SuggestedBindingRedirects.cache
+C:\jaemin\Csharp\workplace\TCPpractice\obj\Debug\TCPpractice.Form1.resources
+C:\jaemin\Csharp\workplace\TCPpractice\obj\Debug\TCPpractice.Properties.Resources.resources
+C:\jaemin\Csharp\workplace\TCPpractice\obj\Debug\TCPpractice.csproj.GenerateResource.cache
+C:\jaemin\Csharp\workplace\TCPpractice\obj\Debug\TCPpractice.csproj.CoreCompileInputs.cache
+C:\jaemin\Csharp\workplace\TCPpractice\obj\Debug\TCPpractice.exe
+C:\jaemin\Csharp\workplace\TCPpractice\obj\Debug\TCPpractice.pdb
+C:\Users\user\Desktop\tcp\TCPpractice\bin\Debug\TCPpractice.exe.config
+C:\Users\user\Desktop\tcp\TCPpractice\bin\Debug\TCPpractice.exe
+C:\Users\user\Desktop\tcp\TCPpractice\bin\Debug\TCPpractice.pdb
+C:\Users\user\Desktop\tcp\TCPpractice\obj\Debug\TCPpractice.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\tcp\TCPpractice\obj\Debug\TCPpractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\tcp\TCPpractice\obj\Debug\TCPpractice.Form1.resources
+C:\Users\user\Desktop\tcp\TCPpractice\obj\Debug\TCPpractice.Properties.Resources.resources
+C:\Users\user\Desktop\tcp\TCPpractice\obj\Debug\TCPpractice.csproj.GenerateResource.cache
+C:\Users\user\Desktop\tcp\TCPpractice\obj\Debug\TCPpractice.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\tcp\TCPpractice\obj\Debug\TCPpractice.exe
+C:\Users\user\Desktop\tcp\TCPpractice\obj\Debug\TCPpractice.pdb
+C:\Users\dhdyg\Documents\카카오톡 받은 파일\tcp\tcp\TCPpractice\bin\Debug\TCPpractice.exe.config
+C:\Users\dhdyg\Documents\카카오톡 받은 파일\tcp\tcp\TCPpractice\bin\Debug\TCPpractice.exe
+C:\Users\dhdyg\Documents\카카오톡 받은 파일\tcp\tcp\TCPpractice\bin\Debug\TCPpractice.pdb
+C:\Users\dhdyg\Documents\카카오톡 받은 파일\tcp\tcp\TCPpractice\obj\Debug\TCPpractice.csproj.AssemblyReference.cache
+C:\Users\dhdyg\Documents\카카오톡 받은 파일\tcp\tcp\TCPpractice\obj\Debug\TCPpractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhdyg\Documents\카카오톡 받은 파일\tcp\tcp\TCPpractice\obj\Debug\TCPpractice.Form1.resources
+C:\Users\dhdyg\Documents\카카오톡 받은 파일\tcp\tcp\TCPpractice\obj\Debug\TCPpractice.Properties.Resources.resources
+C:\Users\dhdyg\Documents\카카오톡 받은 파일\tcp\tcp\TCPpractice\obj\Debug\TCPpractice.csproj.GenerateResource.cache
+C:\Users\dhdyg\Documents\카카오톡 받은 파일\tcp\tcp\TCPpractice\obj\Debug\TCPpractice.csproj.CoreCompileInputs.cache
+C:\Users\dhdyg\Documents\카카오톡 받은 파일\tcp\tcp\TCPpractice\obj\Debug\TCPpractice.exe
+C:\Users\dhdyg\Documents\카카오톡 받은 파일\tcp\tcp\TCPpractice\obj\Debug\TCPpractice.pdb

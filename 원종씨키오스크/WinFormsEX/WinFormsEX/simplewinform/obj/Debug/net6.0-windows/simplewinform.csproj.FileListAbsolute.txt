@@ -1,0 +1,17 @@
+C:\Mb_lwj\c#\WinFormsEX\simplewinform\bin\Debug\net6.0-windows\simplewinform.exe
+C:\Mb_lwj\c#\WinFormsEX\simplewinform\bin\Debug\net6.0-windows\simplewinform.deps.json
+C:\Mb_lwj\c#\WinFormsEX\simplewinform\bin\Debug\net6.0-windows\simplewinform.runtimeconfig.json
+C:\Mb_lwj\c#\WinFormsEX\simplewinform\bin\Debug\net6.0-windows\simplewinform.dll
+C:\Mb_lwj\c#\WinFormsEX\simplewinform\bin\Debug\net6.0-windows\simplewinform.pdb
+C:\Mb_lwj\c#\WinFormsEX\simplewinform\obj\Debug\net6.0-windows\simplewinform.csproj.AssemblyReference.cache
+C:\Mb_lwj\c#\WinFormsEX\simplewinform\obj\Debug\net6.0-windows\simplewinform.csproj.GenerateResource.cache
+C:\Mb_lwj\c#\WinFormsEX\simplewinform\obj\Debug\net6.0-windows\simplewinform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mb_lwj\c#\WinFormsEX\simplewinform\obj\Debug\net6.0-windows\simplewinform.AssemblyInfoInputs.cache
+C:\Mb_lwj\c#\WinFormsEX\simplewinform\obj\Debug\net6.0-windows\simplewinform.AssemblyInfo.cs
+C:\Mb_lwj\c#\WinFormsEX\simplewinform\obj\Debug\net6.0-windows\simplewinform.csproj.CoreCompileInputs.cache
+C:\Mb_lwj\c#\WinFormsEX\simplewinform\obj\Debug\net6.0-windows\simplewinform.dll
+C:\Mb_lwj\c#\WinFormsEX\simplewinform\obj\Debug\net6.0-windows\refint\simplewinform.dll
+C:\Mb_lwj\c#\WinFormsEX\simplewinform\obj\Debug\net6.0-windows\simplewinform.pdb
+C:\Mb_lwj\c#\WinFormsEX\simplewinform\obj\Debug\net6.0-windows\simplewinform.genruntimeconfig.cache
+C:\Mb_lwj\c#\WinFormsEX\simplewinform\obj\Debug\net6.0-windows\ref\simplewinform.dll
+C:\Mb_lwj\c#\WinFormsEX\simplewinform\obj\Debug\net6.0-windows\simplewinform.MessageFilter.resources
