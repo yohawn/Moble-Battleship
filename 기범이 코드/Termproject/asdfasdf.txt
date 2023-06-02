@@ -1,0 +1,66 @@
+private void pictureBox11_Click(object sender, EventArgs e)
+        {
+
+            cursornow(out int x, out int y);
+            x = (x - enemyfield.Location.X) / 50 * 50 + enemyfield.Location.X;
+            y = (y - enemyfield.Location.Y) / 50 * 50 + enemyfield.Location.Y;
+            PictureBox picturebox5 = new PictureBox();
+            this.Controls.Add(picturebox5);
+            picturebox5.Image = Resources.Che;
+            picturebox5.Width = 50;
+            picturebox5.Height = 50;
+            picturebox5.SizeMode = PictureBoxSizeMode.StretchImage;
+            picturebox5.Location = new Point(x, y);
+            picturebox5.BringToFront();
+            CrossVertical.BringToFront();
+            CrossHorizontal.BringToFront();
+            picturebox5.BackColor = Color.Transparent;
+        }
+
+
+
+
+
+
+
+            if (gamemode == 1)
+            {
+                if (control != null) Main.Controls.Remove(control);
+                panel.Visible = false;
+                question.Visible = false;
+                control = new Setting();
+                Main.Controls.Add(control);
+            }
+
+
+
+
+
+
+
+
+  private void button2_Click(object sender, EventArgs e)
+        {
+            string sendData1 = textBox3.Text;  // testBox3 의 내용을 sendData1 변수에 저장
+            streamWriter1.WriteLine(sendData1);  // 스트림라이터를 통해 데이타를 전송
+
+            enemymapdata = sendData1.Split('/');
+
+            for (int i = 0; i < 10; i++)
+            {
+                for (int j = 0; j < 10; j++)
+                {
+                    enemyfielddata[i, j] = int.Parse(enemymapdata[i * 10 + j]);
+                }
+            }
+            textBox3.Clear();
+
+            for (int i = 0; i < 10; i++)
+            {
+                for (int j = 0; j < 10; j++)
+                {
+                    richTextBox1.Text = enemyfielddata[i, j].ToString();
+                }
+                richTextBox1.Text += "\r\n";
+            }
+        }
